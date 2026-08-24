@@ -1,0 +1,47 @@
+{
+  "distance": "hamming",
+  "best": {
+    "top_left_x": 11.049295774647888,
+    "top_left_y": 9.366666666666667,
+    "center_x": 138.54929577464787,
+    "center_y": 136.86666666666667,
+    "score": 56.0
+  },
+  "top_k": [
+    {
+      "top_left_x": 11.049295774647888,
+      "top_left_y": 9.366666666666667,
+      "center_x": 138.54929577464787,
+      "center_y": 136.86666666666667,
+      "score": 56.0
+    },
+    {
+      "top_left_x": 11.0,
+      "top_left_y": 10.0,
+      "center_x": 138.5,
+      "center_y": 137.5,
+      "score": 62.0
+    },
+    {
+      "top_left_x": 12.0,
+      "top_left_y": 9.0,
+      "center_x": 139.5,
+      "center_y": 136.5,
+      "score": 88.0
+    },
+    {
+      "top_left_x": 12.0,
+      "top_left_y": 8.0,
+      "center_x": 139.5,
+      "center_y": 135.5,
+      "score": 92.0
+    },
+    {
+      "top_left_x": 10.0,
+      "top_left_y": 10.0,
+      "center_x": 137.5,
+      "center_y": 137.5,
+      "score": 93.0
+    }
+  ]
+}

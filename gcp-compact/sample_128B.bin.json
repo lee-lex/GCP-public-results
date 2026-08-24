@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "config": {
+    "patch_size": 256,
+    "grid_size": 16,
+    "mode": "mag_orientation",
+    "mag_bits": 2,
+    "orientation_bits": 1,
+    "edge_bits": 1,
+    "quantization": "percentile",
+    "edge_method": "gradient",
+    "mag_clip": 4.0,
+    "edge_gradient_threshold": 0.18,
+    "edge_occupancy_threshold": 0.1,
+    "low_contrast_epsilon": 1e-06
+  },
+  "layouts": [
+    {
+      "name": "magnitude",
+      "bits": 2,
+      "shape": [
+        16,
+        16
+      ],
+      "bit_offset": 0
+    },
+    {
+      "name": "orientation",
+      "bits": 1,
+      "shape": [
+        16,
+        16
+      ],
+      "bit_offset": 512
+    },
+    {
+      "name": "edge",
+      "bits": 1,
+      "shape": [
+        16,
+        16
+      ],
+      "bit_offset": 768
+    }
+  ],
+  "logical_bits": 1024,
+  "stored_bits": 1024,
+  "bytes_per_patch": 128,
+  "compression_ratio": 512.0
+}

@@ -28,3 +28,11 @@
 | WebP q30 + 128 bit | 7.73 MiB | 1509.01x | 92.84% | 0.100 m |
 
 质量优先推荐 WebP q80。128 bit 哈希只作为候选检索索引，最终精匹配仍使用可解码图像切片。
+
+## 空间结构保持型轻量表示（非学习版）
+
+实现了不恢复原图的低比特二维结构编码和压缩域滑窗匹配，并完成 72 组消融与 10 个传统/编解码基线。
+
+- [查看完整中文实验页和全部图表](gcp-compact/README.md)
+- [查看 Pareto 前沿原图](gcp-compact/pareto_frontier.png)
+- [下载消融汇总 CSV](gcp-compact/ablation_summary.csv)

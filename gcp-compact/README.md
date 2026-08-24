@@ -2,6 +2,8 @@
 
 本页发布非学习版“空间结构保持型轻量表示”的可复现实验结果。主方法不重建原始 patch，也不依赖 SIFT/ORB 单一描述子；候选窗口和参考控制点都编码为低比特二维网格后直接匹配。
 
+- [数据来源、候选点提取、切片制作和汉明匹配完整说明](METHODS_CN.md)
+
 ## 本次烟雾实验
 
 - 输入：`256×256 uint8` 灰度 patch，原始大小 65,536 B；
@@ -40,6 +42,7 @@
 
 - [72 组消融与基线汇总](ablation_summary.csv)
 - [逐影像对匹配结果](pair_results.csv)
+- [本次数据、切片和匹配方法清单](method_manifest.json)
 - [128 B 原始 bitstream 示例](sample_128B.bin)
 - [128 B bitstream 配置与字段布局](sample_128B.bin.json)
 - [独立命令行匹配结果](sample_match.json)

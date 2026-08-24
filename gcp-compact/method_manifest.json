@@ -1,0 +1,65 @@
+{
+  "dataset": {
+    "type": "deterministic_synthetic_translation_smoke",
+    "path": "N:\\OUTPUT\\gcp_compact_spatial_representation_OUTPUT\\synthetic_smoke\\synthetic_dataset",
+    "candidate_center_source": "known synthetic reference origin",
+    "ground_truth": "target-window center pixel coordinates from pairs.csv"
+  },
+  "patch_creation": {
+    "reference_size_px": [
+      256,
+      256
+    ],
+    "reference_policy": "input must already be centered; no resize or recentering",
+    "target_policy": "local search image or explicit SearchBounds; RGB is converted to grayscale",
+    "supported_formats": [
+      "png",
+      "jpg",
+      "jpeg",
+      "tif",
+      "tiff"
+    ]
+  },
+  "spatial_representation": {
+    "feature_mode": "mag_orientation",
+    "features": [
+      "Sobel mean gradient magnitude",
+      "magnitude-weighted dominant orientation",
+      "edge occupancy"
+    ],
+    "grid_sizes": [
+      8,
+      16,
+      32
+    ],
+    "quantization": "percentile",
+    "bit_packing": "contiguous mixed-width true bitstream with no per-field byte padding",
+    "image_reconstruction": false
+  },
+  "matching": {
+    "algorithm": "exact dense local sliding-window template search in spatial-code space",
+    "distance": "hamming",
+    "hamming_implementation": "byte XOR plus popcount lookup table",
+    "stride_px": 1,
+    "top_k": 5,
+    "approximate_index": false,
+    "subpixel": "separable parabolic interpolation on the 3x3 cost surface"
+  },
+  "evaluation": {
+    "success_thresholds_px": [
+      1,
+      2,
+      5
+    ],
+    "metrics": [
+      "Recall@1",
+      "Recall@5",
+      "RMSE",
+      "median error",
+      "95th-percentile error",
+      "bytes per GCP",
+      "compression ratio"
+    ],
+    "raw_reference_bytes": 65536
+  }
+}

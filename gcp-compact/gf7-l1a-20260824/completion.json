@@ -6,6 +6,6 @@
   "ransac_rows": 24,
   "icp_rows": 80,
   "quantity_rows": 256,
-  "failure_examples": 52,
+  "failure_examples": 0,
   "public_root": "D:\\260701\\public_results\\gcp-compact\\gf7-l1a-20260824"
 }

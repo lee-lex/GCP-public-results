@@ -1,0 +1,83 @@
+# 水体/绿化复杂上下文失败
+
+点击任意图片可查看原分辨率版本。
+
+## 01 · ctx_51RUQ_000003
+
+<a href="01_ctx_51RUQ_000003_51RUQ_20250916T024141.jpg"><img src="01_ctx_51RUQ_000003_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000003"></a>
+
+## 02 · ctx_51RUQ_000004
+
+<a href="02_ctx_51RUQ_000004_51RUQ_20250916T024141.jpg"><img src="02_ctx_51RUQ_000004_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000004"></a>
+
+## 03 · ctx_51RUQ_000005
+
+<a href="03_ctx_51RUQ_000005_51RUQ_20250916T024141.jpg"><img src="03_ctx_51RUQ_000005_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000005"></a>
+
+## 04 · ctx_51RUQ_000007
+
+<a href="04_ctx_51RUQ_000007_51RUQ_20250916T024141.jpg"><img src="04_ctx_51RUQ_000007_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000007"></a>
+
+## 05 · ctx_51RUQ_000009
+
+<a href="05_ctx_51RUQ_000009_51RUQ_20250916T024141.jpg"><img src="05_ctx_51RUQ_000009_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000009"></a>
+
+## 06 · ctx_51RUQ_000028
+
+<a href="06_ctx_51RUQ_000028_51RUQ_20250916T024141.jpg"><img src="06_ctx_51RUQ_000028_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000028"></a>
+
+## 07 · ctx_51RUQ_000030
+
+<a href="07_ctx_51RUQ_000030_51RUQ_20250916T024141.jpg"><img src="07_ctx_51RUQ_000030_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000030"></a>
+
+## 08 · ctx_51RUQ_000055
+
+<a href="08_ctx_51RUQ_000055_51RUQ_20250916T024141.jpg"><img src="08_ctx_51RUQ_000055_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000055"></a>
+
+## 09 · ctx_51RUQ_000056
+
+<a href="09_ctx_51RUQ_000056_51RUQ_20250916T024141.jpg"><img src="09_ctx_51RUQ_000056_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000056"></a>
+
+## 10 · ctx_51RUQ_000057
+
+<a href="10_ctx_51RUQ_000057_51RUQ_20250916T024141.jpg"><img src="10_ctx_51RUQ_000057_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000057"></a>
+
+## 11 · ctx_51RUQ_000077
+
+<a href="11_ctx_51RUQ_000077_51RUQ_20250916T024141.jpg"><img src="11_ctx_51RUQ_000077_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000077"></a>
+
+## 12 · ctx_51RUQ_000094
+
+<a href="12_ctx_51RUQ_000094_51RUQ_20250916T024141.jpg"><img src="12_ctx_51RUQ_000094_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000094"></a>
+
+## 13 · ctx_51RUQ_000095
+
+<a href="13_ctx_51RUQ_000095_51RUQ_20250916T024141.jpg"><img src="13_ctx_51RUQ_000095_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000095"></a>
+
+## 14 · ctx_51RUQ_000098
+
+<a href="14_ctx_51RUQ_000098_51RUQ_20250916T024141.jpg"><img src="14_ctx_51RUQ_000098_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000098"></a>
+
+## 15 · ctx_51RUQ_000131
+
+<a href="15_ctx_51RUQ_000131_51RUQ_20250916T024141.jpg"><img src="15_ctx_51RUQ_000131_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000131"></a>
+
+## 16 · ctx_51RUQ_000132
+
+<a href="16_ctx_51RUQ_000132_51RUQ_20250916T024141.jpg"><img src="16_ctx_51RUQ_000132_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000132"></a>
+
+## 17 · ctx_51RUQ_000134
+
+<a href="17_ctx_51RUQ_000134_51RUQ_20250916T024141.jpg"><img src="17_ctx_51RUQ_000134_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000134"></a>
+
+## 18 · ctx_51RUQ_000147
+
+<a href="18_ctx_51RUQ_000147_51RUQ_20250916T024141.jpg"><img src="18_ctx_51RUQ_000147_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000147"></a>
+
+## 19 · ctx_51RUQ_000148
+
+<a href="19_ctx_51RUQ_000148_51RUQ_20250916T024141.jpg"><img src="19_ctx_51RUQ_000148_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000148"></a>
+
+## 20 · ctx_51RUQ_000165
+
+<a href="20_ctx_51RUQ_000165_51RUQ_20250916T024141.jpg"><img src="20_ctx_51RUQ_000165_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000165"></a>

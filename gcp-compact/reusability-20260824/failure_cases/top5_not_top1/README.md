@@ -1,0 +1,83 @@
+# 真实候选进入 Top-5 但不是 Top-1
+
+点击任意图片可查看原分辨率版本。
+
+## 01 · ctx_51RUQ_000639
+
+<a href="01_ctx_51RUQ_000639_51RUQ_20250916T024141.jpg"><img src="01_ctx_51RUQ_000639_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000639"></a>
+
+## 02 · ctx_51RUQ_000864
+
+<a href="02_ctx_51RUQ_000864_51RUQ_20250916T024141.jpg"><img src="02_ctx_51RUQ_000864_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000864"></a>
+
+## 03 · ctx_51RUQ_000864
+
+<a href="03_ctx_51RUQ_000864_51RUQ_20250916T024141.jpg"><img src="03_ctx_51RUQ_000864_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000864"></a>
+
+## 04 · ctx_51RVQ_000182
+
+<a href="04_ctx_51RVQ_000182_51RVQ_20251122T023141.jpg"><img src="04_ctx_51RVQ_000182_51RVQ_20251122T023141.jpg" width="920" alt="ctx_51RVQ_000182"></a>
+
+## 05 · ctx_51RVQ_000182
+
+<a href="05_ctx_51RVQ_000182_51RVQ_20251122T023141.jpg"><img src="05_ctx_51RVQ_000182_51RVQ_20251122T023141.jpg" width="920" alt="ctx_51RVQ_000182"></a>
+
+## 06 · ctx_51RVQ_000182
+
+<a href="06_ctx_51RVQ_000182_51RVQ_20260213T022719.jpg"><img src="06_ctx_51RVQ_000182_51RVQ_20260213T022719.jpg" width="920" alt="ctx_51RVQ_000182"></a>
+
+## 07 · ctx_51RVQ_000196
+
+<a href="07_ctx_51RVQ_000196_51RVQ_20260213T022719.jpg"><img src="07_ctx_51RVQ_000196_51RVQ_20260213T022719.jpg" width="920" alt="ctx_51RVQ_000196"></a>
+
+## 08 · ctx_51RVQ_000135
+
+<a href="08_ctx_51RVQ_000135_51RVQ_20260213T022719.jpg"><img src="08_ctx_51RVQ_000135_51RVQ_20260213T022719.jpg" width="920" alt="ctx_51RVQ_000135"></a>
+
+## 09 · ctx_51SUR_000641
+
+<a href="09_ctx_51SUR_000641_51SUR_20251218T024029.jpg"><img src="09_ctx_51SUR_000641_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000641"></a>
+
+## 10 · ctx_51SUR_000435
+
+<a href="10_ctx_51SUR_000435_51SUR_20251218T024029.jpg"><img src="10_ctx_51SUR_000435_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000435"></a>
+
+## 11 · ctx_51SUR_000283
+
+<a href="11_ctx_51SUR_000283_51SUR_20251218T024029.jpg"><img src="11_ctx_51SUR_000283_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000283"></a>
+
+## 12 · ctx_51SUR_000484
+
+<a href="12_ctx_51SUR_000484_51SUR_20251218T024029.jpg"><img src="12_ctx_51SUR_000484_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000484"></a>
+
+## 13 · ctx_51SUR_000088
+
+<a href="13_ctx_51SUR_000088_51SUR_20251218T024029.jpg"><img src="13_ctx_51SUR_000088_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000088"></a>
+
+## 14 · ctx_51SUR_000459
+
+<a href="14_ctx_51SUR_000459_51SUR_20251218T024029.jpg"><img src="14_ctx_51SUR_000459_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000459"></a>
+
+## 15 · ctx_51SUR_000391
+
+<a href="15_ctx_51SUR_000391_51SUR_20251218T024029.jpg"><img src="15_ctx_51SUR_000391_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000391"></a>
+
+## 16 · ctx_51SUR_000024
+
+<a href="16_ctx_51SUR_000024_51SUR_20251218T024029.jpg"><img src="16_ctx_51SUR_000024_51SUR_20251218T024029.jpg" width="920" alt="ctx_51SUR_000024"></a>
+
+## 17 · ctx_51SUR_000284
+
+<a href="17_ctx_51SUR_000284_51SUR_20260221T023731.jpg"><img src="17_ctx_51SUR_000284_51SUR_20260221T023731.jpg" width="920" alt="ctx_51SUR_000284"></a>
+
+## 18 · ctx_51SUR_000047
+
+<a href="18_ctx_51SUR_000047_51SUR_20260221T023731.jpg"><img src="18_ctx_51SUR_000047_51SUR_20260221T023731.jpg" width="920" alt="ctx_51SUR_000047"></a>
+
+## 19 · ctx_51SUR_000215
+
+<a href="19_ctx_51SUR_000215_51SUR_20260221T023731.jpg"><img src="19_ctx_51SUR_000215_51SUR_20260221T023731.jpg" width="920" alt="ctx_51SUR_000215"></a>
+
+## 20 · ctx_51SUR_000047
+
+<a href="20_ctx_51SUR_000047_51SUR_20260221T023731.jpg"><img src="20_ctx_51SUR_000047_51SUR_20260221T023731.jpg" width="920" alt="ctx_51SUR_000047"></a>

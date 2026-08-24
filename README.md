@@ -36,3 +36,11 @@
 - [查看完整中文实验页和全部图表](gcp-compact/README.md)
 - [查看 Pareto 前沿原图](gcp-compact/pareto_frontier.png)
 - [下载消融汇总 CSV](gcp-compact/ablation_summary.csv)
+
+## 历史 GCP 整景可复用性评估
+
+500 个固定 2024 GCP 在 2025/2026 完整 Sentinel-2 目标场景中进行无 GT 候选注入的重识别。首轮结果把候选覆盖、身份识别、条件定位和 RANSAC 几何验证分开统计。
+
+- [手机查看完整中文结果、9 张图和 140 个案例](gcp-compact/reusability-20260824/README.md)
+- [直接打开候选池规模与 Reuse@1 图](gcp-compact/reusability-20260824/plots/04_candidate_pool_size_vs_reuse_at_1.png)
+- [浏览成功与失败案例图集](gcp-compact/reusability-20260824/FAILURE_GALLERY.md)

@@ -1,0 +1,30 @@
+﻿method,method_label_cn,outcome_abcd,gcp_count,outcome_rate
+raw_ncc,原始灰度 NCC,D_no_true_candidate,592,0.8888888888888888
+raw_ncc,原始灰度 NCC,A_correct_high_precision,64,0.0960960960960961
+webp_q30_ncc,WebP Q30 + NCC,D_no_true_candidate,592,0.8888888888888888
+webp_q30_ncc,WebP Q30 + NCC,A_correct_high_precision,64,0.0960960960960961
+jpeg2000_100_ncc,JPEG2000 100 + NCC,D_no_true_candidate,592,0.8888888888888888
+jpeg2000_100_ncc,JPEG2000 100 + NCC,A_correct_high_precision,64,0.0960960960960961
+compact_32B_rank_hamming,32 B Rank/Hamming,D_no_true_candidate,592,0.8888888888888888
+compact_32B_rank_hamming,32 B Rank/Hamming,A_correct_high_precision,49,0.07357357357357357
+compact_32B_rank_hamming,32 B Rank/Hamming,C_wrong_identity,12,0.018018018018018018
+compact_64B_orientation_l1,64 B 方向/L1,D_no_true_candidate,592,0.8888888888888888
+compact_64B_orientation_l1,64 B 方向/L1,A_correct_high_precision,56,0.08408408408408409
+compact_128B_dct_sign_hamming,128 B DCT 符号/Hamming,D_no_true_candidate,592,0.8888888888888888
+compact_128B_dct_sign_hamming,128 B DCT 符号/Hamming,A_correct_high_precision,65,0.09759759759759759
+compact_256B_mag_orientation_hamming,256 B 幅值+方向/Hamming,D_no_true_candidate,592,0.8888888888888888
+compact_256B_mag_orientation_hamming,256 B 幅值+方向/Hamming,A_correct_high_precision,65,0.09759759759759759
+median_binary_32B_hamming,32 B 中值二值基线,D_no_true_candidate,592,0.8888888888888888
+median_binary_32B_hamming,32 B 中值二值基线,B_correct_large_or_unavailable_localization,30,0.04504504504504504
+median_binary_32B_hamming,32 B 中值二值基线,A_correct_high_precision,31,0.046546546546546545
+raw_ncc,原始灰度 NCC,B_correct_large_or_unavailable_localization,9,0.013513513513513514
+webp_q30_ncc,WebP Q30 + NCC,B_correct_large_or_unavailable_localization,9,0.013513513513513514
+jpeg2000_100_ncc,JPEG2000 100 + NCC,B_correct_large_or_unavailable_localization,9,0.013513513513513514
+compact_32B_rank_hamming,32 B Rank/Hamming,B_correct_large_or_unavailable_localization,13,0.01951951951951952
+compact_64B_orientation_l1,64 B 方向/L1,B_correct_large_or_unavailable_localization,18,0.02702702702702703
+compact_128B_dct_sign_hamming,128 B DCT 符号/Hamming,B_correct_large_or_unavailable_localization,9,0.013513513513513514
+compact_256B_mag_orientation_hamming,256 B 幅值+方向/Hamming,B_correct_large_or_unavailable_localization,9,0.013513513513513514
+median_binary_32B_hamming,32 B 中值二值基线,C_wrong_identity,13,0.01951951951951952
+raw_ncc,原始灰度 NCC,C_wrong_identity,1,0.0015015015015015015
+webp_q30_ncc,WebP Q30 + NCC,C_wrong_identity,1,0.0015015015015015015
+jpeg2000_100_ncc,JPEG2000 100 + NCC,C_wrong_identity,1,0.0015015015015015015

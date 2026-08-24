@@ -1,0 +1,83 @@
+# 相似建筑类硬负样本
+
+点击任意图片可查看原分辨率版本。
+
+## 01 · ctx_51RUQ_000001
+
+<a href="01_ctx_51RUQ_000001_51RUQ_20250916T024141.jpg"><img src="01_ctx_51RUQ_000001_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000001"></a>
+
+## 02 · ctx_51RUQ_000027
+
+<a href="02_ctx_51RUQ_000027_51RUQ_20250916T024141.jpg"><img src="02_ctx_51RUQ_000027_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000027"></a>
+
+## 03 · ctx_51RUQ_000073
+
+<a href="03_ctx_51RUQ_000073_51RUQ_20250916T024141.jpg"><img src="03_ctx_51RUQ_000073_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000073"></a>
+
+## 04 · ctx_51RUQ_000146
+
+<a href="04_ctx_51RUQ_000146_51RUQ_20250916T024141.jpg"><img src="04_ctx_51RUQ_000146_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000146"></a>
+
+## 05 · ctx_51RUQ_000286
+
+<a href="05_ctx_51RUQ_000286_51RUQ_20250916T024141.jpg"><img src="05_ctx_51RUQ_000286_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000286"></a>
+
+## 06 · ctx_51RUQ_000297
+
+<a href="06_ctx_51RUQ_000297_51RUQ_20250916T024141.jpg"><img src="06_ctx_51RUQ_000297_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000297"></a>
+
+## 07 · ctx_51RUQ_000335
+
+<a href="07_ctx_51RUQ_000335_51RUQ_20250916T024141.jpg"><img src="07_ctx_51RUQ_000335_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000335"></a>
+
+## 08 · ctx_51RUQ_000349
+
+<a href="08_ctx_51RUQ_000349_51RUQ_20250916T024141.jpg"><img src="08_ctx_51RUQ_000349_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000349"></a>
+
+## 09 · ctx_51RUQ_000355
+
+<a href="09_ctx_51RUQ_000355_51RUQ_20250916T024141.jpg"><img src="09_ctx_51RUQ_000355_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000355"></a>
+
+## 10 · ctx_51RUQ_000365
+
+<a href="10_ctx_51RUQ_000365_51RUQ_20250916T024141.jpg"><img src="10_ctx_51RUQ_000365_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000365"></a>
+
+## 11 · ctx_51RUQ_000385
+
+<a href="11_ctx_51RUQ_000385_51RUQ_20250916T024141.jpg"><img src="11_ctx_51RUQ_000385_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000385"></a>
+
+## 12 · ctx_51RUQ_000433
+
+<a href="12_ctx_51RUQ_000433_51RUQ_20250916T024141.jpg"><img src="12_ctx_51RUQ_000433_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000433"></a>
+
+## 13 · ctx_51RUQ_000449
+
+<a href="13_ctx_51RUQ_000449_51RUQ_20250916T024141.jpg"><img src="13_ctx_51RUQ_000449_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000449"></a>
+
+## 14 · ctx_51RUQ_000473
+
+<a href="14_ctx_51RUQ_000473_51RUQ_20250916T024141.jpg"><img src="14_ctx_51RUQ_000473_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000473"></a>
+
+## 15 · ctx_51RUQ_000485
+
+<a href="15_ctx_51RUQ_000485_51RUQ_20250916T024141.jpg"><img src="15_ctx_51RUQ_000485_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000485"></a>
+
+## 16 · ctx_51RUQ_000489
+
+<a href="16_ctx_51RUQ_000489_51RUQ_20250916T024141.jpg"><img src="16_ctx_51RUQ_000489_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000489"></a>
+
+## 17 · ctx_51RUQ_000495
+
+<a href="17_ctx_51RUQ_000495_51RUQ_20250916T024141.jpg"><img src="17_ctx_51RUQ_000495_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000495"></a>
+
+## 18 · ctx_51RUQ_000507
+
+<a href="18_ctx_51RUQ_000507_51RUQ_20250916T024141.jpg"><img src="18_ctx_51RUQ_000507_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000507"></a>
+
+## 19 · ctx_51RUQ_000552
+
+<a href="19_ctx_51RUQ_000552_51RUQ_20250916T024141.jpg"><img src="19_ctx_51RUQ_000552_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000552"></a>
+
+## 20 · ctx_51RUQ_000555
+
+<a href="20_ctx_51RUQ_000555_51RUQ_20250916T024141.jpg"><img src="20_ctx_51RUQ_000555_51RUQ_20250916T024141.jpg" width="920" alt="ctx_51RUQ_000555"></a>

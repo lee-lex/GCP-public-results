@@ -58,7 +58,8 @@
 ## 输出索引
 
 - `new_gcp_manifest.csv`：849 个 GCP 完整元数据。
-- `dataset_integrity_audit.json`：独立审计，全部强制检查通过=True。
+- `dataset_integrity_audit.json`：独立数据审计，全部强制检查通过=True。
+- `result_integrity_audit.json`：最终表格、真实 bitstream 尺寸/哈希、图件和失败案例的完整性审计。
 - `patch_quality_report.csv` / `soft_context_statistics.csv` / `soft_boundary_statistics.csv` / `soft_boundary_matching_results.csv`：数据质量、软背景比例、边界距离分组及其匹配敏感性。
 - `baseline_results.csv` / `spatial_results.csv` / `grid_ablation_results.csv` / `census_results.csv` / `distance_results.csv`：主实验与 72 组全网格消融。
 - `search_radius_results.csv` / `weighting_results.csv` / `allocation_results.csv`：搜索、中心权重与固定预算空间分配消融。

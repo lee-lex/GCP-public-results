@@ -1,0 +1,18 @@
+{
+  "campaign": "context-preserved-20260824",
+  "gcp_count": 849,
+  "high_confidence_test_pairs": 755,
+  "patch_size": [256, 256],
+  "patch_mask_applied_count": 0,
+  "context_preserved_count": 849,
+  "representation_method_count": 4,
+  "representation_catalog_rows": 3396,
+  "total_bitstream_payload_bytes": 407520,
+  "bitstream_files_missing": 0,
+  "bitstream_size_mismatches": 0,
+  "bitstream_hash_mismatches": 0,
+  "failed_pair_count_across_summary_tables": 0,
+  "plot_count": 11,
+  "failure_case_count": 20,
+  "all_mandatory_checks_pass": true
+}

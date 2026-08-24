@@ -1,0 +1,25 @@
+{
+  "gcp_count": 849,
+  "unique_gcp_id": true,
+  "inside_study_boundary_count": 849,
+  "inside_study_boundary_rate": 1.0,
+  "hard_center_count": 849,
+  "hard_center_rate": 1.0,
+  "patch_mask_applied_count": 0,
+  "context_preserved_flag_rate": 1.0,
+  "reference_256_count": 849,
+  "target_384_count": 849,
+  "reference_hash_match_count": 849,
+  "target_after_reference_count": 849,
+  "heldout_not_in_selection_count": 849,
+  "selection_patch_count": 1983,
+  "gcp_with_valid_selection_patches": 849,
+  "mgrs_tiles": [
+    "51RUQ",
+    "51RVQ",
+    "51SUR",
+    "51SVR"
+  ],
+  "occupied_0_05deg_cells": 187,
+  "all_mandatory_checks_pass": true
+}

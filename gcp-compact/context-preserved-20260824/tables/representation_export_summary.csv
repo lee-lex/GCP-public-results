@@ -1,0 +1,5 @@
+﻿method,budget_bytes,gcp_count,bytes_per_patch,total_bitstream_bytes,total_bitstream_kib,compression_ratio_vs_uint8_gray,recall_2px,rmse_px
+rank_transform_g16_b1_median_uniform_hamming_r64,32,849,32.0,27168,26.53125,2048.0,0.919205298013245,11.32675101525548
+sobel_orientation_g16_b2_uniform_uniform_l1_r64,64,849,64.0,54336,53.0625,1024.0,0.9218543046357616,1.2948498940715838
+dct_sign_g32_b1_median_uniform_hamming_r64,128,849,128.0,108672,106.125,512.0,0.9986754966887416,0.4713743744586363
+grid_mag_orientation_g32_m1_o1_e0_percentile_hamming_r64,256,849,256.0,217344,212.25,256.0,1.0,0.3360341853999765

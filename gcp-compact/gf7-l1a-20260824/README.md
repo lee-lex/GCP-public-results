@@ -14,6 +14,7 @@
 - [GF-7 上 GCP/ICP 数字分布图](plots/08_scene_gcp_icp_distribution.png)
 - [尺度与旋转归一化消融](plots/09_geometry_normalization_ablation.png)
 - [RPC 高程敏感性](plots/10_elevation_sensitivity.png)
+- [单个控制点的 128 B DCT-sign 结构图](plots/11_single_128B_DCT_sign_image.png)
 - [独立真值抽查图](plots/independent_gt_contact_sheet.jpg)
 
 完整中文结论见 [GF7_GCP_SUMMARY_CN.md](GF7_GCP_SUMMARY_CN.md)。失败案例保留在 [failure_cases](failure_cases/)，汇总表在 [tables](tables/)。
